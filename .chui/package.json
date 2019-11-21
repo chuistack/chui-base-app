@@ -1,0 +1,10 @@
+{
+    "name": "chui-base-app",
+    "devDependencies": {
+    },
+    "dependencies": {
+        "@chuistack/chui-lib": "^0.1.1",
+        "@pulumi/kubernetes": "^1.0.0",
+        "@pulumi/pulumi": "^1.0.0"
+    }
+}

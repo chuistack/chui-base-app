@@ -1,0 +1,9 @@
+name: {{globalAppName}}-{{application}}
+runtime: nodejs
+description: A Chui app template.
+template:
+  importantVariable:
+    description: A variable.
+    secret: true
+  otherVariable:
+    description: Another variable.
