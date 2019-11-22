@@ -3,3 +3,4 @@ source: git@github.com:chuistack/chui-base-app.git
 type: app
 variant: none
 name: {{globalAppName}}-{{application}}
+pulumiOrgName: {{pulumiOrgName}}

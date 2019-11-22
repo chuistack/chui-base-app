@@ -1,6 +1,6 @@
 name: {{globalAppName}}-{{application}}
 runtime: nodejs
-description: A Chui app template.
+description: Deploy Application to the {{globalAppName}} cluster.
 template:
   importantVariable:
     description: A variable.
