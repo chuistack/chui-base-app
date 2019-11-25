@@ -2,5 +2,6 @@ version: 0.1.0
 source: git@github.com:chuistack/chui-base-app.git
 type: app
 variant: none
-name: {{globalAppName}}-{{application}}
+name: {{application}}
+globalAppName: {{globalAppName}}
 pulumiOrgName: {{pulumiOrgName}}
