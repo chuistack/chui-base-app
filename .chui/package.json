@@ -5,7 +5,7 @@
     "devDependencies": {},
     "dependencies": {
         "@chuistack/chui-lib": "^0.1.2",
-        "@pulumi/kubernetes": "^1.0.0",
-        "@pulumi/pulumi": "^1.0.0"
+        "@pulumi/kubernetes": "^1.5.4",
+        "@pulumi/pulumi": "^1.11.0"
     }
 }
