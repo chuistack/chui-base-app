@@ -1,6 +1,9 @@
 {
     "name": "chui-base-app",
     "description": "Template Chui app.",
+    "repository": {
+        "url": "https://github.com/chuistack/chui-base-app"
+    },
     "license": "MIT",
     "devDependencies": {},
     "dependencies": {
